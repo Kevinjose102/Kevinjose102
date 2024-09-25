@@ -1,5 +1,5 @@
   <h1 align="center" >Hi! &#128075; My name is Kevin Jose</h1>
-  <h2 align="center" >Aspiring Software Engineer | Web Developer</h2>
+  <h3 align="center" >Aspiring Software Engineer | Web Developer</h3>
   <p align="center">✉️ You can contact me at <a href="mailto:kevinjose2505@gmail.com">kevinjose2505@gmail.com</a></p>
 
 <h3 align="center">SKILLS</h3>
