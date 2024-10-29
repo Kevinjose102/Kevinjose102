@@ -29,3 +29,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinjose102&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
+<div width="100%" align="center"><a href="https://github.com/Kevinjose102/Etch-a-Sketch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevinjose102&repo=Etch-a-Sketch&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Kevinjose102/Library" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevinjose102&repo=Library&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
