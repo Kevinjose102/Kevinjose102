@@ -20,7 +20,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
+    <a href="https://www.instagram.com/kevinjose1105/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+    <a href="https://www.linkedin.com/in/kevin-jose-b08311279/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+    <a href="https://github.com/Kevinjose102"><img src="https://skillicons.dev/icons?i=github"/></a>
   </a>
 </p>
 
