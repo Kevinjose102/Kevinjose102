@@ -1,8 +1,8 @@
-  <h1 align="center" >Hi! &#128075; My name is Kevin Jose</h1>
+  <h1 align="center" >Hi! &#128075; I am Kevin Jose</h1>
   <h3 align="center" >Aspiring Software Engineer</h3>
   <p align="center">✉️ You can contact me at <a href="mailto:kevinjose2505@gmail.com">kevinjose2505@gmail.com</a></p>
 
-<h2 align="center">SKILLS</h2>
+<h2 align="center">TECH STACK</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@
 </p>
 
 
-<h2 align="center">FIND ME ON</h2>
+<h2 align="center">SOCIAL</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -25,8 +25,6 @@
     <a href="https://github.com/Kevinjose102"><img src="https://skillicons.dev/icons?i=github"/></a>
   </a>
 </p>
-
-<h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kevinjose102&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false"/><br/>
